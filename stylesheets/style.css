@@ -1,0 +1,9 @@
+img{
+    height: 150px;
+}
+
+.nav li{
+	display: inline-block;
+	margin-bottom: 0 150px;
+	vertical-align: top
+}
